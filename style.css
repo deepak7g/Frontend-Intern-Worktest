@@ -1,0 +1,114 @@
+.btn1{
+    background-color: aqua;
+}
+img{
+    position: relative;
+    display: none;
+    left: 300px;
+}
+
+#date{
+    /* background-color: blue; */
+    position: relative;
+    top: 40px;
+    right: 350px;
+    border-radius: 3px;
+    
+}
+
+#blc1{
+    position: relative;
+    right:450px;
+    top: 65px;
+}
+
+
+.btncolor{
+    background-color: blue;
+    border-radius: 55555px;
+    padding: 1rem 2rem!important;
+    color: #ffff;
+    margin-bottom: 2rem;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: xx-large;
+    font-weight: 1000;   
+    border-color: white;
+    position: relative;
+    top: 2rem;
+}
+
+li{
+    font-size: large;
+}
+h1{
+    color: skyblue;
+}
+h2{
+    font-weight: bolder!important;
+    margin-bottom: 2rem!important;
+}
+li,.h2,.side-title{
+    color: #8a8582;
+}
+p,span{
+    font-weight: bolder;
+    color: blue;
+    font-size: 3rem;
+}
+.first-box{
+  position: absolute;
+}
+.mid-amont{
+
+    color: blue;
+    font-weight: bolder!important;
+}
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    line-height: 2.5rem;
+    font-weight: bold;
+    opacity: 75%;
+  }
+.plan{
+    background-color: blue;
+    position: relative;
+    bottom: 25px;
+    border-radius: 5px;
+    width: 60%;
+    left: 4rem;
+    color: #ffff;
+    font-weight: bolder;
+}
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)!important;
+}
+.card-body{
+    border-radius: 10px;    
+    padding: 1rem 2rem!important;
+}
+.middle-card{
+    position: relative;
+    bottom: 1rem;
+    z-index: 1;
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+#second-heading{
+    position: relative;
+    color: black;
+    display: none;
+    left: 170px;
+    top: 50px;
+}
+ body{
+    text-align: center;
+    background-color: #ffff;
+}
+
+
